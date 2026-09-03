@@ -1,4 +1,11 @@
+<!-- ======================= BANNER ======================= -->
+
+<img width="1983" height="793" alt="ChatGPT Image Sep 3, 2026, 05_12_58 PM" src="https://github.com/user-attachments/assets/3d2d0fd3-45fb-4f8f-bade-c3035a786d62" />
+
+<!-- ======================= INTRO ======================= -->
+
 <h1 align="center">Hi 👋, I'm Samia Rahman</h1>
+
 <h3 align="center"🌱 Learning Full-Stack Development</h3>
 
  <h3 align="center">
@@ -14,6 +21,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   </p>
+
   
 ## 👨‍💻 About Me
 
@@ -26,7 +34,6 @@ Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Ful
 💻 Working on projects to sharpen my coding skills  
 📚 Learning best by building real projects, not just tutorials  
 🤝 Always up for collaborating on beginner-friendly open-source projects  
-
 
 
 ## 🛠️ Technologies & Tools
@@ -51,6 +58,7 @@ Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Ful
   
 </p>
 
+
 ### Design & Graphics:
 
 <p>
@@ -65,6 +73,9 @@ Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Ful
   <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
   <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
 </p>
+
+
+
 ## 📍 Where to find me
 
 <p align="left">
@@ -73,7 +84,10 @@ Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Ful
 <a href="https://www.codechef.com/users/samia_rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samia_rahman" width="50" /></a>
 <a href="https://codeforces.com/profile/samiarahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samiarahmann" width="50" /></a>
 </p>
+
+
 ## 📊 GITHUB STATISTICS & ANALYSIS
+
 
 ### 🔥 Contribution Streak
 
