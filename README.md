@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samia Rahman</h1>
 <h3 align="center"🌱 Learning Full-Stack Development</h3>
 
-- <h3 align="center">
+ <h3 align="center">
   🌱 Learning Full-Stack Development
 </h3>
 
-- <p align="center">
+ <p align="center">
   JavaScript • TypeScript • React • Node.js
 </p>
 
@@ -68,12 +68,14 @@ Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Ful
 ## 📍 Where to find me
 
 <p align="left">
-<a href="https://fb.com/samia rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samia rahman" height="30" width="40" /></a>
-<a href="https://instagram.com/_rahman_samia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahman_samia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/samia_rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samia_rahman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samiarahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samiarahmann" height="30" width="40" /></a>
+<a href="https://fb.com/samia rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samia rahman"  width="50" /></a>
+<a href="https://instagram.com/_rahman_samia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahman_samia"  width="50" /></a>
+<a href="https://www.codechef.com/users/samia_rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samia_rahman" width="50" /></a>
+<a href="https://codeforces.com/profile/samiarahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samiarahmann" width="50" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosamia&show_icons=true&locale=en&layout=compact" alt="tosamia" /></p>
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### 🔥 Contribution Streak
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tosamia&show_icons=true&locale=en" alt="tosamia" /></p>
 
