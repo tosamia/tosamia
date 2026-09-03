@@ -77,6 +77,6 @@ Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Ful
 
 ### 🔥 Contribution Streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tosamia&show_icons=true&locale=en" alt="tosamia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosamia&" alt="tosamia" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tosamia&" alt="tosamia" />
+</p>
