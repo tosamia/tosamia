@@ -5,8 +5,12 @@
   🌱 Learning Full-Stack Development
 </h3>
 
-- 🌱 I’m currently learning **javascript,Typescript**
+- <p align="center">
+  JavaScript • TypeScript • React • Node.js
+</p>
 
+<p align="center">
+   <a href="mailto:samiasamian2003@gmail.com">
 - 📫 How to reach me **samiasamian2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
