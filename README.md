@@ -10,8 +10,20 @@
 </p>
 
 <p align="center">
-   <a href="mailto:samiasamian2003@gmail.com">
-- 📫 How to reach me **samiasamian2003@gmail.com**
+ <a href="samiasamian2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+## 👨‍💻 About Me
+
+Hi, I'm **Samia Rahman**, a passionate learner on my journey to becoming a **Full-Stack Developer**.
+
+🌱 Currently diving into **Full-Stack Web Development**  
+🚀 Getting hands-on with modern frontend & backend tools  
+🤖 Exploring AI-assisted development to code faster and smarter  
+🧠 Constantly working on my problem-solving and logic-building skills  
+💻 Working on projects to sharpen my coding skills  
+📚 Learning best by building real projects, not just tutorials  
+🤝 Always up for collaborating on beginner-friendly open-source projects  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
